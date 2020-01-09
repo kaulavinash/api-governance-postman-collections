@@ -6,6 +6,6 @@ This collection is an evolving set of API governance requests and is meant to de
 
 - **Documentation:** [https://documenter.getpostman.com/view/35240/SWLh46Dv?version=latest](https://documenter.getpostman.com/view/35240/SWLh46Dv?version=latest)
 - **Collection:** [api-governance-postman-collections.json](api-governance-postman-collections.json)
-- **Envirobmebt:** [api-governance-postman-collections-environment.json](api-governance-postman-collections-environment.json)
+- **Environment:** [api-governance-postman-collections-environment.json](api-governance-postman-collections-environment.json)
 
 If you have any requests for new API governance rules, find bugs, or have questions about how it works feel free to submit as a GitHub issue, and I'll work to consider as I move this API governance Postman collection forward.
